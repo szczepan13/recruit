@@ -2,4 +2,13 @@
 
 Celem zadania jest napisanie modelu bardzo prostej gry planszowej.
 
-Gra polega na odwracaniu żetonów. Na jedną grę skłąda się 20 żetonów, 4 w pionie i 5 w poziomie. Każdy żeton ma 2 strony, zakrtyą i odkrytą. Jeden żeton spośród całej puli to "żeton wygrywający". Gracz ma 60 sekund i tylko 5 prób na odkrycie zwycięskiego żetonu. Żeton wygrywający w każdej grze znajduje się na inne pozycji. Gracz wygrywa tylko wtedy kiedy w przeciągu 60 sekund odkryje wygrywający żeton w co najwyżej 5 próbach. Po odkryciu żetonu, który nie jest "żetonem wygrywającym", pozostaje on odkryty do końca gry. Gracz nie może odkryć 2 razy tego samego żetonu. Po odkryciu żetonu wygrywającego gra dobiega końca.
+Gra polega na odwracaniu żetonów. Na jedną grę skłąda się 20 żetonów, 4 w pionie i 5 w poziomie.
+Każdy żeton ma 2 strony, zakrtyą i odkrytą.
+Jeden żeton spośród całej puli to "żeton wygrywający".
+
+Gracz ma 60 sekund i tylko 5 prób na odkrycie zwycięskiego żetonu.
+Żeton wygrywający w każdej grze znajduje się na inne pozycji.
+Gracz wygrywa tylko wtedy kiedy w przeciągu 60 sekund odkryje wygrywający żeton w co najwyżej 5 próbach.
+Po odkryciu żetonu, który nie jest "żetonem wygrywającym", pozostaje on odkryty do końca gry.
+Gracz nie może odkryć 2 razy tego samego żetonu.
+Po odkryciu żetonu wygrywającego gra dobiega końca.
