@@ -27,7 +27,7 @@ class Field{
 
     public function isOpen()
     {
-        return !$this->isClosed();
+        return $this->type === self::OPEN;
     }
 
     public function isWin()

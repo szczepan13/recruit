@@ -22,7 +22,7 @@ class Game
         $this->chooseRandomWinningTile();
     }
 
-    private function getField($x, $y)
+    public function getField($x, $y)
     {
         return $this->map[$x][$y];
     }

@@ -65,6 +65,7 @@ class GameRepository
 
     public function checkTime()
     {
+
         return ((microtime(true) - $this->event['start']) < self::MAX_GAME_TIME );
     }
 
